@@ -1,0 +1,29 @@
+
+
+
+
+/* ProductPage.css */
+
+.card {
+  margin-top: 20px;
+}
+
+.card-img-top {
+  object-fit: cover;
+}
+
+.card-body {
+  text-align: left;
+}
+
+.button {
+  margin-top: 10px;
+}
+
+.zoom{
+  transition: transform 0.9s ease;
+}
+
+.product-image:hover {
+  transform: scale(1.1);
+}
