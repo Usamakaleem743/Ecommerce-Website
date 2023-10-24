@@ -59,7 +59,7 @@ const SingleProduct = () => {
                       name: item.name,
                       price: item.price,
                       quantity: 1,
-                      size: item.size,
+                      size:size,
                       color: color,
                       totalPrice: item.price,
                       img: item.img,
